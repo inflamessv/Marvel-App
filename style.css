@@ -1,0 +1,23 @@
+body {
+    background-color: brown;
+}
+
+.container {
+    text-align: center;
+}
+
+.heroes {
+    display: inline-block;
+    height: 40%;
+    width: 40%;
+    padding: 20%,0,20%,0;
+    color: aliceblue;
+    
+}
+
+.heroes img{
+    max-height: 100%;
+    max-width: 100%;
+    
+}
+
